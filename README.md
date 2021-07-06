@@ -1,1 +1,2 @@
-# hak-fb-
+# hak-fb- 
+COMMAND HAK FB FRIAND
