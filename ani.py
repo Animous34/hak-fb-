@@ -1,8 +1,4 @@
-# Decompiled By Anonymous
-# Github : https://github.com/Animous34
-#coding=utf-8
-#!/usr/bin/python2
-#Originally Written By COMMANDER X
+
 try:
     import os,sys,time,datetime,re,random,hashlib,threading,json,getpass,urllib,cookielib,requests
     from multiprocessing.pool import ThreadPool
